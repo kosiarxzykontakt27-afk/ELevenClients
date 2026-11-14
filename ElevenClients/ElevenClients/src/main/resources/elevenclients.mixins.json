@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "pl.elevenclients.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["MinecraftClientMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
